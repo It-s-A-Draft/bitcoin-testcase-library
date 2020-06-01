@@ -24,6 +24,7 @@ This data set is designed to be a repository of valid inputs and outputs for var
 | Signature Hash Algorithm | Incomplete |
 | Bitcoin Script | Incomplete |
 
+## Project License, Intentions, and How to Help
 
 This data set is released under a CC0-1.0 license with the intention of making it free to use with no restrictions or requirements placed on the user. In addition, while this data is put together with the best of intentions and with the best effort to be complete, reliable, and helpful, we are not guaranteeing any of those things.
 
